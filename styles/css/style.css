@@ -17,6 +17,7 @@
 body {
     background-color: #000;
     color: #464646;
+    font-family: 'Baloo Tamma 2', cursive, sans-serif;
 }
 
 .container {
@@ -170,7 +171,7 @@ li {
     list-style-type: disc;
 }
 
-.section-right>h4 {
+.section-right h4 {
     text-transform: uppercase;
 }
 
